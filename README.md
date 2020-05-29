@@ -32,5 +32,6 @@ your SMTP server information, etc.:
 }
 ```
 If you are using Gmail, make sure to read [Node Mailer guide](https://nodemailer.com/usage/using-gmail/).
+
 5. Update the [index.html](./index.html) template file to your liking. A good guide for HTML email templates can be found at [Mailchimp](https://templates.mailchimp.com/getting-started/html-email-basics/).
 6. Run `npm start` and watch it unfold.
